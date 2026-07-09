@@ -18,5 +18,5 @@ A powerful x86_64 assembler with custom syntax, full Long Mode support, and cros
 ```bash
 git clone https://github.com/rond04kaegor-code/Litad-Assembly.git
 cd lasm
-./build_all.sh
+bash build_all.sh
 ```
