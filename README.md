@@ -16,7 +16,7 @@ A powerful x86_64 assembler with custom syntax, full Long Mode support, and cros
 ## Installation FROM SOURCE
 
 ```bash
-git clone https://github.com/yourusername/lasm.git
+git clone https://github.com/rond04kaegor-code/Litad-Assembly.git
 cd lasm
 ./build_all.sh
 ```
